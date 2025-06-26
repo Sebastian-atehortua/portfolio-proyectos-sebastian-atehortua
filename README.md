@@ -16,4 +16,4 @@ Especialista en gestión de datos, automatización y control de procesos, con ex
 
 **Contacto:**  
 [LinkedIn](https://www.linkedin.com/in/sebasti%C3%A1n-atehortua-sanguino-7b6aa0238/)  
-Email: sebas.atehortua.s@gmail.com# portfolio-proyectos-sebastian-atehortua
+Email: sebas.atehortua.s@gmail.com
