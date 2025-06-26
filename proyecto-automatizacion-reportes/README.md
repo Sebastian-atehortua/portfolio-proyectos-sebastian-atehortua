@@ -2,7 +2,7 @@
 
 ¡Hola! Bienvenido a mi portafolio de proyectos de automatización, análisis y gestión. Aquí encontrarás algunos de mis principales trabajos y habilidades como Analista.
 
-## 📌 Proyectos Destacados
+## Proyectos Destacados
 
 1. [Automatización de Reportes de Gestión](./proyecto-automatizacion-reportes/README.md)
 2. [Dashboard Dinámico de KPIs en Power BI](./proyecto-dashboard-kpis/README.md)
