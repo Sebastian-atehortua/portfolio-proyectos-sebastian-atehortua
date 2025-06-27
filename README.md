@@ -6,15 +6,8 @@
 
 ## 🚀 Proyectos Destacados
 
-1. 📊 [Automatización de Reportes de Gestión](./proyecto-automatizacion-reportes/README.md)  
-   Extracción, limpieza y visualización automática de datos mensuales desde SQL Server y Excel.
-
-2. 📈 [Dashboard Dinámico de KPIs en Power BI](./proyecto-dashboard-kpis/README.md)  
-   Visualización de indicadores de desempeño con segmentación y control por roles.
-
-3. 📥 [Flujo Digital de Aprobación de Solicitudes](./proyecto-flujo-aprobacion/README.md)  
-   Automatización de flujo de aprobación con formularios, validaciones y notificaciones.
-
+1. 📊 [Dashboard contable](https://github.com/Sebastian-atehortua/dashboard-contable)  
+  Desarrollo de un sistema interactivo para monitorear ingresos, egresos y flujo financiero mediante Python, Streamlit y Plotly. La herramienta extrae, limpia y visualiza    datos mensuales desde fuentes como SQL Server y archivos Excel, permitiendo a empresas tomar decisiones informadas en tiempo real sin depender de soluciones comerciales como Power BI.
 ---
 
 ## 👨‍💻 Sobre mí
